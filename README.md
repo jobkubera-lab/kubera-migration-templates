@@ -1,2 +1,4 @@
-# kubera-migration-templates
-Набор шаблонов: CV, cover letters, письма работодателям, служебные записки. Языки: RU/EN (план: HI). Обновляется еженедельно.
+# Kubera Migration Templates
+
+Набор шаблонов: CV, cover letters, письма работодателям, служебные записки.  
+Языки: RU/EN (план: HI). Обновляется еженедельно.
